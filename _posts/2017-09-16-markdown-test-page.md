@@ -4,7 +4,7 @@ title: "About Me"
 tags: tag1 
 ---
 
-![](me/Yukun Jiang.jpg)
+![](./me/Yukun Jiang.jpg)
 ![](https://whilebug.github.io//images/Peiran_Wang.png)
 
 
