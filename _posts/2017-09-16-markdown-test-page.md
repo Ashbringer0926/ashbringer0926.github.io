@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About Me"
-tags: About tag2
+tags: About
 ---
 
 # *Luke Yukun Jiang (江钰坤 in Chinese)*
