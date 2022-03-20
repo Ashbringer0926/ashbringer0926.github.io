@@ -7,10 +7,13 @@ tags: tag1
 
 # *Luke Yukun Jiang (江钰坤 in Chinese)*
 
+![](https://s3.bmp.ovh/imgs/2022/03/5a99ff101bb299f1.jpeg)
+
+
 ## Biography
 
-![](https://s3.bmp.ovh/imgs/2022/03/5a99ff101bb299f1.jpeg) | I am Luke, a senior undergraduate student majoring in Cybersecurity at [Sichuan University](https://www.scu.edu.cn/) (Chengdu, China) and an incoming Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de) (Saarbrücken, Germany). Currently, I am doing a research intern at [Tencent Cloud](https://cloud.tencent.com/). Prior to this, I was fortunate to be advised by [Prof. Beibei Li](https://li-beibei.github.io/) and [Prof. Neil Gong](https://people.duke.edu/~zg70/index.html).
----|---
+I am Luke, a senior undergraduate student majoring in Cybersecurity at [Sichuan University](https://www.scu.edu.cn/) (Chengdu, China) and an incoming Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de) (Saarbrücken, Germany). Currently, I am doing a research intern at [Tencent Cloud](https://cloud.tencent.com/). Prior to this, I was fortunate to be advised by [Prof. Beibei Li](https://li-beibei.github.io/) and [Prof. Neil Gong](https://people.duke.edu/~zg70/index.html).
+
 
 
 ## Research Interests
@@ -40,6 +43,3 @@ tags: tag1
 ## Awards
 
 * Best Paper Award, ISCC 2021
-
-
-
