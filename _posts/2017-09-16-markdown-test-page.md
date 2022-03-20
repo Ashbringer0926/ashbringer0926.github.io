@@ -4,13 +4,12 @@ title: "About Me"
 tags: tag1 
 ---
 
-![](_posts/Yukun_Jiang.jpeg)
 
 # *Luke Yukun Jiang (江钰坤 in Chinese)*
 
 ## Biography
-
-I am Luke, a senior undergraduate student majoring in Cybersecurity at [Sichuan University](https://www.scu.edu.cn/) (Chengdu, China) and an incoming Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de) (Saarbrücken, Germany). Currently, I am doing a research intern at [Tencent Cloud](https://cloud.tencent.com/). Prior to this, I was fortunate to be advised by [Prof. Beibei Li](https://li-beibei.github.io/) and [Prof. Neil Gong](https://people.duke.edu/~zg70/index.html).
+![](https://s3.bmp.ovh/imgs/2022/03/2c7cf4da53957d09.jpeg) ｜ I am Luke, a senior undergraduate student majoring in Cybersecurity at [Sichuan University](https://www.scu.edu.cn/) (Chengdu, China) and an incoming Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de) (Saarbrücken, Germany). Currently, I am doing a research intern at [Tencent Cloud](https://cloud.tencent.com/). Prior to this, I was fortunate to be advised by [Prof. Beibei Li](https://li-beibei.github.io/) and [Prof. Neil Gong](https://people.duke.edu/~zg70/index.html).
+---｜---
 
 
 ## Research Interests
