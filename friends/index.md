@@ -7,3 +7,4 @@ title: Friends
 
 * [WhileBug](https://whilebug.github.io/)
 * [LorrBlog](https://lorrlai.github.io/)
+* [Yuzhou Fang](https://about.chares.me/)
