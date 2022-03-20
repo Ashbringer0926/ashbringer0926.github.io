@@ -4,7 +4,7 @@ title: "About Me"
 tags: tag1 
 ---
 
-![/_data/Yukun Jiang.jpeg]
+![](/_data/Yukun Jiang.jpeg)
 
 # *Luke Yukun Jiang (江钰坤 in Chinese)*
 
