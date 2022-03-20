@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Markdown Test Page"
-tags: About tag3
+title: "About Me"
+tags: About 
 ---
 
 # *Luke Yukun Jiang (江钰坤 in Chinese)*
