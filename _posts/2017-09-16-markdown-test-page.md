@@ -27,7 +27,7 @@ I am Luke, a senior undergraduate student majoring in Cybersecurity at [Sichuan 
 ## Research Experience
 
 * Apr. 2020 - Present, Research Assistant at Sichuan University, advised by Prof. Beibei Li
-* Fed. 2022 - Present, Research Intern at Tencent Cloud
+* Feb. 2022 - Present, Research Intern at Tencent Cloud
 * Jul. 2021 - Nov. 2021, Remote Research Intern at Duke Univesity, advised by Prof. Neil Gong 
 
 
