@@ -5,8 +5,6 @@ tags: tag1
 ---
 
 ![](_posts/Yukun_Jiang.jpeg)
-![](https://whilebug.github.io//images/Peiran_Wang.png)
-
 
 # *Luke Yukun Jiang (江钰坤 in Chinese)*
 
