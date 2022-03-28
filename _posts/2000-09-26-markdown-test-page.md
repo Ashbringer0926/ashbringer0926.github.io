@@ -33,7 +33,7 @@ I am Luke, a senior undergraduate student majoring in Cybersecurity at [Sichuan 
 
 ## Publications
 
-* **Yukun Jiang**, Xiaoyu Cao, Hao Chen, Neil Gong: ''FedER: Communication-Efficient Byzantine-Robust Federated Learning''. ICLR 2022 Workshop on Socially Responsible Machine Learning (ICLR-SRML) 
+* **Yukun Jiang**, Xiaoyu Cao, Hao Chen, Neil Gong: ''FedER: Communication-Efficient Byzantine-Robust Federated Learning''. International Conference on Learning Representations 2022 Workshop on Socially Responsible Machine Learning (ICLR 2022-SRML) 
 * Beibei Li, **Yukun Jiang**, Qingqi Pei, Tao Li, Liang Liu, Rongxing Lu: ''FEEL: Federated End-to-End Learning with Non-IID Data for Vehicular Ad Hoc Networks''. Major revision in IEEE Transactions on Intelligent Transportation Systems T-ITS 
 * Beibei Li, **Yukun Jiang**, Wenbin Sun, Weina Niu, Peiran Wang: ''FedVANET: Efficient Federated Learning with Non-IID Data for Vehicular Ad Hoc Networks''. In Proceedings of IEEE Global Communications Conference 2021 (GLOBECOM 2021) 
 * Beibei Li, Yaxin Shi, Yuqing Guo, Qinglei Kong, **Yukun Jiang**: ''Incentive-Based Adaptive Federated Knowledge Distillation for Cross-Silo Applications''. In Proceedings of IEEE International Conference on Computer Communications Workshops (INFOCOM 2022 WORKSHOPS) 
