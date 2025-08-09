@@ -5,6 +5,7 @@ title: Friends
 
 ## You could find some interesting guys here
 
+* [Laqeey](https://laqeey.github.io/)
 * [WhileBug](https://whilebug.github.io/)
 * [Yanghao Wang](https://wang-yanghao.github.io/)
 * [LorrBlog](https://lorrlai.github.io/)
