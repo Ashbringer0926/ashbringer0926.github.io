@@ -1,6 +1,6 @@
 ---
 layout: me
-title: Contract
+title: Contact
 ---
 
 ## You could reach out to me by:
