@@ -8,7 +8,7 @@ order: 3
 
 # Publications
 
-## Under review / arXiv
+## Under Review / arXiv
 
 * **Yukun Jiang**, Yage Zhang, Michael Backes, Xinyue Shen, Yang Zhang: ''HarmfulSkillBench: How Do Harmful Skills Weaponize Your Agents?'' [\[arXiv\]](https://arxiv.org/abs/2604.15415) [\[Code\]](https://github.com/TrustAIRLab/HarmfulSkillBench) [\[Dataset\]](https://huggingface.co/datasets/TrustAIRLab/HarmfulSkillBench)
 * Yage Zhang, **Yukun Jiang**, Zeyuan Chen, Michael Backes, Xinyue Shen, Yang Zhang: ''Real Money, Fake Models: Deceptive Model Claims in Shadow APIs.'' [\[arXiv\]](https://arxiv.org/abs/2603.01919) **Media Coverage:** [\[JIQIZHIXIN \| Synced (Chinese)\]](https://mp.weixin.qq.com/s/Z6MzHAWhS6duLg5y1hDCYg).
