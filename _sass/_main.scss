@@ -285,13 +285,17 @@ ul.topbar {
 		color: #008082;
 	}
 
-	> p:first-of-type img {
+	> .bio-photo {
 		float: right;
 		margin: 0 0 15px 15px;
-		border: 1px solid #888;
+
+		img {
+			border: 1px solid #888;
+			display: block;
+		}
 	}
 
-	> h2:not(:first-of-type) {
+	> h2 {
 		clear: right;
 	}
 }
@@ -405,12 +409,12 @@ ul.topbar {
 	}
 }
 @media only screen and (max-width: 480px) {
-	.post_content > p:first-of-type img {
+	.post_content > .bio-photo {
 		float: none;
-		display: block;
 		margin: 0 auto 15px;
+		text-align: center;
 	}
-	.post_content > h2:not(:first-of-type) {
+	.post_content > h2 {
 		clear: none;
 	}
 }
