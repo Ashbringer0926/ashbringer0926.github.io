@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title/
-url: #Your url here
-baseurl: /project
+url: "https://ashbringer0926.github.io"
+baseurl: ""
 
 # variables
 name: Luke Yukun Jiang's Webpage
