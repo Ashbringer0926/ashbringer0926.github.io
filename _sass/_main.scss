@@ -190,7 +190,7 @@ ul.topbar {
 	position: relative;
 	width: 98.5%;
 	min-height: 600px;
-	max-height: 600px;
+	max-height: 80vh;
 	padding: 2px;
 	margin: 0 auto;
 	overflow-y: scroll;
@@ -321,6 +321,16 @@ ul.topbar {
 	p {
 		text-align: right;
 		word-break: break-word;
+	}
+}
+@media only screen and (min-width: 1400px) {
+	.wrapper, .content {
+		width: 1100px;
+	}
+}
+@media only screen and (min-width: 2000px) {
+	.wrapper, .content {
+		width: 1400px;
 	}
 }
 @media only screen and (max-width: 900px) {
