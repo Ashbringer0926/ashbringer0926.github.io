@@ -17,7 +17,7 @@ order: 3
 
 ## Conference / Journal
 
-<!-- * <span class="venue">\[ICML 2026\]</span> **Yukun Jiang**, Hai Huang, Mingjie Li, Yage Zhang, Michael Backes, Yang Zhang: ''Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs.'' [\[arXiv\]](https://arxiv.org/abs/2602.08621) [\[Code\]](https://github.com/TrustAIRLab/UnsafeMoE) --!>
+<!-- * <span class="venue">\[ICML 2026\]</span> **Yukun Jiang**, Hai Huang, Mingjie Li, Yage Zhang, Michael Backes, Yang Zhang: ''Sparse Models, Sparse Safety: Unsafe Routes in Mixture-of-Experts LLMs.'' [\[arXiv\]](https://arxiv.org/abs/2602.08621) [\[Code\]](https://github.com/TrustAIRLab/UnsafeMoE) -->
 * <span class="venue">\[ACL 2026\]</span> **Yukun Jiang**, Xinyue Shen, Michael Backes, Zheng Li, Yang Zhang: ''Open Schrödinger's Closed Box: Identifying Retrieval Augmented Generation in API-Accessible Large Language Model Services.''
 * <span class="venue">\[ACL 2026\]</span> Yage Zhang, **Yukun Jiang**, Michael Backes, Yang Zhang: ''DE-CLIP: Few-Shot Anomaly Detection via Difference-Guided Embedding Editing.''
 * <span class="venue">\[NeurIPS 2025\]</span> **Yukun Jiang**, Mingjie Li, Michael Backes, Yang Zhang: ''Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency.'' [\[PDF\]](/Publications/NeurIPS2025-JAIL-CON.pdf) [\[Link\]](https://arxiv.org/abs/2510.21189) [\[Code\]](https://github.com/TrustAIRLab/JAIL-CON)
