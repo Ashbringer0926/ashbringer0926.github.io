@@ -8,6 +8,8 @@ order: 3
 
 # Publications
 
+<small>\* Equal Contribution</small>
+
 ## Under Review / arXiv
 
 * <span class="venue">\[arXiv\]</span> **Yukun Jiang**, Yage Zhang, Michael Backes, Xinyue Shen, Yang Zhang: ''HarmfulSkillBench: How Do Harmful Skills Weaponize Your Agents?'' [\[arXiv\]](https://arxiv.org/abs/2604.15415) [\[Code\]](https://github.com/TrustAIRLab/HarmfulSkillBench) [\[Dataset\]](https://huggingface.co/datasets/TrustAIRLab/HarmfulSkillBench)
